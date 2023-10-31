@@ -1,15 +1,20 @@
-.font-sans
-{
-    font-family: Poppins !important;
-}
-h1
+// .font-sans
+// {
+//     font-family: Poppins !important;
+// }
+body
 {
     font-family: Poppins;
+}
+
+h1
+{
+    font-family: Playfair Display;
     //font-family: bebas neue;
     //font-size: 100px !important;
     line-height: .8;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    // -webkit-font-smoothing: antialiased;
+    // -moz-osx-font-smoothing: grayscale;
     // @include breakpoint(min, medium) {
     // };
     // @include breakpoint(min, medium) {
@@ -19,8 +24,12 @@ h1
 
 h2 
 {
-    font-family: Poppins;
+    font-family: 'playfair display';
     
+    font-size: 80px !important;
+    line-height: .9;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 
@@ -51,7 +60,8 @@ h3
 
 h4
 {
-    font-family: Poppins;
+    font-family: 'Playfair display';
+    font-weight: 600 !important;
     
 }
 
@@ -80,15 +90,20 @@ p
 
 blockquote
 {
-    font-family: poppins;
-    border-style: solid;
-    border-image: 
-      linear-gradient(
-        to bottom, 
-        #ff2727, 
-        #ffffff
-      ) 1 100%;
-      border-right: 0;
+    font-family: 'Playfair Display';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 40px;
+    line-height: 1.15;
+
+    .auth
+    {
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: bold;
+        color: $colorLight1;
+    }
+ 
 }
 
 .poppins
@@ -130,7 +145,7 @@ ul
 
 figcaption
 {
-    font-family: Roboto mono;
+    font-family: Poppins;
 }
 
 .commandements

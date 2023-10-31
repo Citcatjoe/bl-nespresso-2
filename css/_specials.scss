@@ -1,3 +1,48 @@
+  ////////////////////////////////////////////////////////////////
+  //     GENERAL HELPERS
+  ////////////////////////////////////////////////////////////////
+
+.color-gradient
+{
+    background: linear-gradient(60deg, $colorGradient1 0%, $colorGradient2 100%);
+}
+
+.color 
+{
+    background: $colorLight2;
+    //overflow: hidden; 
+}
+////////////////////////////////////////////////////////////////
+//     THIS STORYTELLING HELPERS
+////////////////////////////////////////////////////////////////
+
+.left-custom-imgcontainer
+{
+    left: 55%;
+}
+
+.text-custom-dark1
+{
+    color: $colorDark1;
+}
+
+.text-custom-dark2
+{
+    color: $colorDark2;
+}
+
+.bg-custom-dark1
+{
+    background: $colorDark1;
+}
+
+.bg-custom-dark2
+{
+    background: $colorDark2;
+}
+
+
+
 html
 {
     scroll-behavior: smooth;
@@ -111,6 +156,11 @@ body
     @include breakpoint(min, medium) {
         width: 3.75rem;
     };
+}
+
+.h-custom-title
+{
+    height: 27rem;
 }
 
 // .decoration {

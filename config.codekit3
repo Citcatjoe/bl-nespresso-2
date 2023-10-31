@@ -7,7 +7,7 @@
       "uuidString" : "84288CAB-771C-45CF-8183-3D7255CA7F7A"
     }
   ],
-  "creatorBuild" : "34518",
+  "creatorBuild" : "34434",
   "files" : {
     "\/composer.json" : {
       "ft" : 524288,
@@ -2292,6 +2292,42 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/this\/capsule1.png" : {
+      "ft" : 32768,
+      "iS" : 158492,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/capsule1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/capsule2.png" : {
+      "ft" : 32768,
+      "iS" : 153795,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/capsule2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/check.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/check.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/Communique_Le systeme de recyclage Nespresso a 30 ans.pdf" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2316,6 +2352,36 @@
       "oAP" : "\/img\/this\/Communique_Nespresso_LCA Study.pdf",
       "oF" : 0
     },
+    "\/img\/this\/compost1.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/compost1.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/compost2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/compost2.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/compost3.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/compost3.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/conclusions.png" : {
       "ft" : 32768,
       "iS" : 14236,
@@ -2328,6 +2394,36 @@
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
+    },
+    "\/img\/this\/dot-1.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/dot-1.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/dot-2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/dot-2.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/dot-3.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/dot-3.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/img\/this\/etf.svg" : {
       "ft" : 2097152,
@@ -2370,6 +2466,16 @@
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/img\/this\/icon-agronomist.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/icon-air-water.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/icon-air-water.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -2425,6 +2531,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/this\/icon-grind.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/icon-grind.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/icon-label.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -2440,6 +2556,26 @@
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/img\/this\/icon-package.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/icon-recyclable.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/icon-recyclable.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/icon-scale.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/icon-scale.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -2465,6 +2601,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/this\/icon-www.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/icon-www.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/illustration-cards.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -2484,6 +2630,71 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/img\/this\/img-double-1.png" : {
+      "ft" : 32768,
+      "iS" : 613014,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-double-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/img-double-2.png" : {
+      "ft" : 32768,
+      "iS" : 761088,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-double-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/img-solo-1.png" : {
+      "ft" : 32768,
+      "iS" : 860410,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-solo-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/img-titre2.png" : {
+      "ft" : 32768,
+      "iS" : 567773,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-titre2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/img-titre3.png" : {
+      "ft" : 32768,
+      "iS" : 894577,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/img-titre3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/img\/this\/Infographic_B2C_DE.jpg" : {
       "ft" : 16384,
@@ -2509,6 +2720,71 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/inter-1-sac-1.png" : {
+      "ft" : 32768,
+      "iS" : 203171,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/inter-1-sac-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/inter-1-sac-2.png" : {
+      "ft" : 32768,
+      "iS" : 193734,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/inter-1-sac-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/inter-1-sac-3.png" : {
+      "ft" : 32768,
+      "iS" : 201891,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/inter-1-sac-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/inter-1-sac-4.png" : {
+      "ft" : 32768,
+      "iS" : 196785,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/inter-1-sac-4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/inter-1-sac-5.png" : {
+      "ft" : 32768,
+      "iS" : 196953,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/inter-1-sac-5.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
       "rq" : 75
     },
     "\/img\/this\/logo-bitcoin.png" : {
@@ -8311,7 +8587,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 689520013.15429795,
-    "displayValue" : "bl-longread-yuh-1",
+    "displayValue" : "bl-nespresso-2",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/favicon\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0
@@ -8830,10 +9106,6 @@
         "active" : 0,
         "optionString" : "'always', {exceptAfterSingleLine: false}"
       },
-      "logical-assignment-operators" : {
-        "active" : 0,
-        "optionString" : "'always',  {'enforceForIfStatements': false}"
-      },
       "max-classes-per-file" : {
         "active" : 0,
         "optionString" : "{'ignoreExpressions': false, 'max': 1}"
@@ -8994,9 +9266,6 @@
       "no-empty-pattern" : {
         "active" : 1
       },
-      "no-empty-static-block" : {
-        "active" : 0
-      },
       "no-eq-null" : {
         "active" : 0
       },
@@ -9137,9 +9406,6 @@
       "no-new-func" : {
         "active" : 0
       },
-      "no-new-native-nonconstructor" : {
-        "active" : 0
-      },
       "no-new-object" : {
         "active" : 0
       },
@@ -9208,6 +9474,9 @@
       "no-return-assign" : {
         "active" : 0,
         "optionString" : "'except-parens'"
+      },
+      "no-return-await" : {
+        "active" : 0
       },
       "no-script-url" : {
         "active" : 0
@@ -9877,14 +10146,10 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
-    "rollupTreeshakingModuleSideEffects" : 1,
     "skippedFoldersString" : "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
     "sourceFolderName" : "source",
     "susyVersion" : 3,
-    "tsAllowArbitraryExtensions" : 0,
-    "tsAllowImportingTSExtensions" : 0,
     "tsAllowSyntheticDefaultImports" : 0,
-    "tsAllowUMDGlobalAccess" : 0,
     "tsAllowUnreachableCode" : 0,
     "tsAllowUnusedLabels" : 0,
     "tsAlwaysStrict" : 0,
@@ -9893,36 +10158,36 @@
     "tsEmitDecoratorMetadata" : 0,
     "tsESModuleInterop" : 0,
     "tsExactOptionalPropertyTypes" : 0,
-    "tsExperimentalDecorators" : 0,
     "tsForceConsistentCasingInFileNames" : 0,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
+    "tsKeyofStringsOnly" : 0,
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
     "tsNoImplicitOverride" : 0,
     "tsNoImplicitReturns" : 0,
     "tsNoImplicitThis" : 0,
+    "tsNoImplicitUseStrict" : 0,
     "tsNoLib" : 0,
     "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
+    "tsNoStrictGenericChecks" : 0,
     "tsNoUncheckedIndexAccess" : 0,
     "tsNoUnusedLocals" : 0,
     "tsNoUnusedParameters" : 0,
     "tsPreserveConstEnums" : 0,
     "tsPreserveSymlinks" : 0,
     "tsResolveJsonModule" : 0,
-    "tsSkipDefaultLibCheck" : 0,
     "tsSkipLibCheck" : 0,
-    "tsStrictBindCallApply" : 0,
     "tsStrictFunctionTypes" : 0,
     "tsStrictNullChecks" : 0,
     "tsStrictPropertyInitialization" : 0,
     "tsStripInternal" : 0,
-    "tsUseDefineForClassFields" : 0,
+    "tsSuppressExcessPropertyErrors" : 0,
+    "tsSuppressImplicitAnyIndexErrors" : 0,
     "tsUseUnknownInCatchVariables" : 0,
-    "tsVerbatimModuleSyntax" : 0,
     "uglifyDefinesString" : "",
     "uglifyFlags2" : {
       "arguments" : {
